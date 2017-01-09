@@ -14,7 +14,6 @@ Now press ESC to get to the console, and run the program
 > RUN
 ```
 
-PICO-8_1.png
 ![][screenshot1]
 
 [screenshot1]: PICO-8_1.png "Screenshot 1"
