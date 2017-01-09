@@ -22,9 +22,9 @@ Now press ESC to get to the console, and run the program
 function _draw()
   cls()
   foreach(stars, draw_sprite)
-	 draw_sprite(ship)
-	 foreach(aliens, draw_sprite)
-	 foreach(missiles, draw_sprite)
+  draw_sprite(ship)
+  foreach(aliens, draw_sprite)
+  foreach(missiles, draw_sprite)
   draw_score()
 end
 ```
