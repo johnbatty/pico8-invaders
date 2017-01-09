@@ -17,3 +17,14 @@ Now press ESC to get to the console, and run the program
 ![][screenshot1]
 
 [screenshot1]: PICO-8_1.png "Screenshot 1"
+
+```lua
+function _draw()
+  cls()
+  foreach(stars, draw_sprite)
+	 draw_sprite(ship)
+	 foreach(aliens, draw_sprite)
+	 foreach(missiles, draw_sprite)
+  draw_score()
+end
+```
