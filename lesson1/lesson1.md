@@ -71,3 +71,7 @@ FUNCTION UPDATE_SHIP(S)
   END
 END
 ```
+
+![][screenshot2]
+
+[screenshot2]: PICO-8_2.png "Screenshot 2"
